@@ -1,16 +1,18 @@
-### ![](https://raw.githubusercontent.com/NCReborn/content-images/refs/heads/main/expedition33/collection/page/Expedition%20Reborn.png) *✅1.5.1 Compatible | 👙Stylish Outfits |⚡5 Minute Install |🔄 Regularly Updated |🌀QoL & Bug Fixes*
+### ![](https://raw.githubusercontent.com/NCReborn/content-images/refs/heads/main/expedition33/collection/page/Expedition%20Reborn.png) 
+<h3 align="center">✅1.5.1 Compatible | 👙Stylish Outfits |⚡5 Minute Install |🔄 Regularly Updated |🌀QoL & Bug Fixes</h3>
+
 
 ***
-
-### 🔹Refer to our Discord for any updates 🔄 , issues ⚙️, change logs 📝, and giveaways. 🎁 ↓ 
+<h3 align="center">🔹Refer to our Discord for any updates 🔄 , issues ⚙️, change logs 📝, and giveaways. 🎁 ↓ </h3>
 
 ![](https://raw.githubusercontent.com/NCReborn/content-images/refs/heads/main/expedition33/collection/page/discord.png)
 
 ***
 
-### ⚠️ Our collections only support Vortex.&#x20;
+<h3 align="center">⚠️ Our collections only support Vortex.</h3>
 
 ***
+
 
 ![](https://raw.githubusercontent.com/NCReborn/content-images/refs/heads/main/expedition33/collection/page/info.png)
 <details><summary>▫️Installation Guide</summary>
@@ -19,7 +21,7 @@
 
 **IMPORTANT** - We highly recommend you update to the latest version of Expedition 33 and make sure you have [Vortex](https://www.nexusmods.com/site/mods/1?tab=files) installed.
 
-**IMPORTANT**  - Our collections are only compatible with [Vortex](https://www.nexusmods.com/site/mods/1?tab=files).&#x20;
+**IMPORTANT**  - Our collections are only compatible with [Vortex](https://www.nexusmods.com/site/mods/1?tab=files)
 
 **DISCLAIMER** - Our collections will only work on legitimate copies of the game, purchased through Steam/GoG/Epic stores. Any cracked/illegal copies will not be supported, and you will receive no help diagnosing issues if you have an illegitimate copy, so please don't waste our support teams time if it's not working on a non-legit copy of the game.
 
@@ -103,12 +105,25 @@ While we don't recommend you modify the collection yourself, if you find mods ar
 
 <details><summary>▫️Will updating revisions affect my save?</summary>
 This is highly unlikely, most mods are cosmetic and only add features to improve gameplay experience, they are unlikely to tamper with the fundamentals of the game, or affect saves. Best practice would be to make sure you know what save file you are on before an update. Then if you do run into issues with a new revision you can revert back to a previous revision and save file.\
-\
+
 I try my best to do extensive testing when adding/removing mods, and will always forwarn if a new save game is required.
 </details>
 
-![](https://raw.githubusercontent.com/NCReborn/content-images/refs/heads/main/expedition33/collection/page/credits.png)\
+![](https://raw.githubusercontent.com/NCReborn/content-images/refs/heads/main/expedition33/collection/page/credits.png)
+<div align="center">
+  
 *Veinz, for creating the Reborn team, without them, this wouldn't be possible.*
 
-*Cara, for helping test the very first revision, and for creating some amazing art. Thank you so much for your help.*\
+*Cara, for helping test the very first revision, and for creating some amazing art. Thank you so much for your help.*
+</div>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/NCReborn/content-images/refs/heads/main/expedition33/collection/images/balloon%20fight.avif" width="33%" />
+  <img src="https://raw.githubusercontent.com/NCReborn/content-images/refs/heads/main/expedition33/collection/images/Nosaram%20Pink.avif" width="33%" />
+  <img src="https://raw.githubusercontent.com/NCReborn/content-images/refs/heads/main/expedition33/collection/images/overcharged%20unleashed.avif" width="33%" />
+</p>
+<div align="center">
+  
+*Animations left to right*
 
+*[Camp Training Dummy by Kaboff02](https://www.nexusmods.com/clairobscurexpedition33/mods/631) | [Weapon Collection Nosaram - Pink by Kaboff22](https://www.nexusmods.com/clairobscurexpedition33/mods/639) | [Overcharge Unleashed by ErikLeifTheRed](https://www.nexusmods.com/clairobscurexpedition33/mods/600)*
+</div>
